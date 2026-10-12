@@ -16,7 +16,7 @@ Uso:
 
 CONFIGURAÇÃO
 
-1. Instalar python 3.12
+1. Instalar python 
 2. Baixar ZIP
 3. cd
 4.  py lambda_py_fast.py --pubkey 03a2efa402fd5268400c77c20e574ba86409ededee7c4020e4b9f0edbee53de0d4 --lo 8000000000 bits 40 --workers 8 --batch 256
