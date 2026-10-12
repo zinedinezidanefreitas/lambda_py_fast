@@ -12,6 +12,7 @@ Otimizacoes em relacao a lambda_py.py:
   5. Faixa de intervalo ate 160 bits aceita (inteiros arbitrarios).
 
 Uso:
+ (python) ou (py)
   py lambda_py_fast.py --pubkey 02... --lo 0 --bits 50 [--workers 8] [--batch 256]
 
 CONFIGURAÇÃO
