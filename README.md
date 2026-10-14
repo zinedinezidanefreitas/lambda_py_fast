@@ -23,3 +23,8 @@ CONFIGURAÇÃO
 4.  py lambda_py_fast.py --pubkey 03a2efa402fd5268400c77c20e574ba86409ededee7c4020e4b9f0edbee53de0d4 --lo 8000000000 --bits 40 --workers 8 --batch 256
 5.  python lambda_py_fast.py --pubkey 03a2efa402fd5268400c77c20e574ba86409ededee7c4020e4b9f0edbee53de0d4 --lo 8000000000 --bits 40 --workers 8 --batch 256
 6.  py lambda_py_fast.py --pubkey 031f6a332d3c5c4f2de2378c012f429cd109ba07d69690c6c701b6bb87860d6640 --lo 8000000000000000000000000000000000000 --bits 140 --workers 8 --batch 256
+
+Tamanho do intervalo |	Tempo aproximado
+50 bits              | 	~4 minutos
+60 bits              | 	~2 horas
+70 bits	             |  ~2–3 dias
